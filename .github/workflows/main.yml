@@ -27,6 +27,6 @@ jobs:
       APP_SECRET: 671c07eccdb5676a03a871e4fee05f83
       TEMPLATE_ID: 	7zMoFa4ajfxEpYF5BaDqa99tpRhvvaRngr2D83SXG6I
       USER_ID: oiDEI6h3Eteoq4Izd0328OvmM504
-      START_DATE: ${{ 2022_01_05 }}
-      BIRTHDAY: ${{ 2000_01_18}}
-      CITY: ${{西安}}
+      START_DATE: 2022_01_05
+      BIRTHDAY:  2000_01_18
+      CITY: 西安
